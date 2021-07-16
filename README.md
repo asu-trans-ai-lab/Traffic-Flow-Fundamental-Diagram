@@ -1,9 +1,12 @@
->   This repository is used for calibrating a wide range of speed-density
->   fundamental diagram.
+| In mathematics and transportation engineering, traffic flow is the study of interactions between travellers (including pedestrians, cyclists, drivers, and their vehicles) and infrastructure (including highways, signage, and traffic control devices), with the aim of understanding and developing an optimal transport network with efficient movement of traffic and minimal traffic congestion problems. <https://en.wikipedia.org/wiki/Traffic_flow> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+>   This repository aims to provide open-source codes and test data sets for
+>   calibrating a wide range of speed-density fundamental diagrams.
 
 >   ![](media/20cce12844c72d8b4ee7cc2b42afa109.png)
 
-In particular, an s-shaped three-parameter (S3) fundamental diagram model is
+In particular, a s-shaped three-parameter (S3) fundamental diagram model is
 proposed where vf, kc and m are the free-flow speed, the critical density, and
 the flatness-of-curve parameter respectively.
 
@@ -23,3 +26,7 @@ Figure 2: Empirical data vs. S3 model
 >   Cheng, Q., Liu, Z., Lin, Y., Zhou, X., 2021. An s-shaped three-parameter
 >   (S3) traffic stream model with consistent car following relationship. Under
 >   review.
+
+>   [(PDF) An s-shaped three-dimensional (S3) traffic stream model with
+>   consistent car following relationship
+>   (researchgate.net)](https://www.researchgate.net/publication/341104050_An_s-shaped_three-dimensional_S3_traffic_stream_model_with_consistent_car_following_relationship)
