@@ -1,13 +1,25 @@
-# This repository is used for calibrating speed-density fundamental diagram.
+>   This repository is used for calibrating a wide range of speed-density
+>   fundamental diagram.
 
-#### Citation format: Cheng, Q., Liu, Z., Lin, Y., Zhou, X., 2021. An s-shaped three-parameter (S3) traffic stream model with consistent car following relationship. Under review.
+>   ![](media/20cce12844c72d8b4ee7cc2b42afa109.png)
 
-An s-shaped three-parameter (S3) fundamental diagram model expressed by $v=\frac{{{v}_{f}}}{{{\left[ 1+{{\left( {k}/{{{k}_{c}}}\; \right)}^{m}} \right]}^{{2}/{m}\;}}}$, where ${{v}_{f}}$, ${{k}_{c}}$, and $m$ are the free-flow speed, the critical density, and the flatness-of-curve parameter respectively, is proposed in this study. 
+In particular, an s-shaped three-parameter (S3) fundamental diagram model is
+proposed where vf, kc and m are the free-flow speed, the critical density, and
+the flatness-of-curve parameter respectively.
 
-![F1.jpg](attachment:F1.jpg)
-Figure 1: An illustration of the S3 model when vf = 110 km/hr and kc = 25 veh/km/ln
+Figure 1: An illustration of the S3 model when *vf* = 110 km/hr and *kc* = 25
+veh/km/ln
 
-### Some calibration results are shown as follows:
+Some calibration results are shown as follows:
 
-![F2.jpg](attachment:F2.jpg)
+| ![](media/c1d20c9d81998bb3a0f45c25b3d70de7.png) (a) speed-density plane | ![](media/0dc7dbfe234bee6405ba41fe0ada9bd6.png) (b) speed-flow plane             |
+|-------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| ![](media/f82f9741d3834faa38e6d36198dc5251.png) (c) flow-density plane  | ![](media/8772373878b88e8a0919c1e51a7cc2d9.png) (d) 3D flow-speed-density plane  |
+
 Figure 2: Empirical data vs. S3 model
+
+>   **Reference:**
+
+>   Cheng, Q., Liu, Z., Lin, Y., Zhou, X., 2021. An s-shaped three-parameter
+>   (S3) traffic stream model with consistent car following relationship. Under
+>   review.
