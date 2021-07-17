@@ -10,14 +10,16 @@ In particular, a s-shaped three-parameter (S3) fundamental diagram model is
 proposed where vf, kc and m are the free-flow speed, the critical density, and
 the flatness-of-curve parameter respectively.
 
+![](media/d480e2df55dd895877f2eed9838d75f7.png)
+
 Figure 1: An illustration of the S3 model when *vf* = 110 km/hr and *kc* = 25
 veh/km/ln
 
 Some calibration results are shown as follows:
 
-| ![](media/c1d20c9d81998bb3a0f45c25b3d70de7.png) (a) speed-density plane | ![](media/0dc7dbfe234bee6405ba41fe0ada9bd6.png) (b) speed-flow plane             |
-|-------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ![](media/f82f9741d3834faa38e6d36198dc5251.png) (c) flow-density plane  | ![](media/8772373878b88e8a0919c1e51a7cc2d9.png) (d) 3D flow-speed-density plane  |
+| ![](media/c1d20c9d81998bb3a0f45c25b3d70de7.png) (a) speed-density plane | ![](media/0dc7dbfe234bee6405ba41fe0ada9bd6.png) (b) speed-flow plane            |
+|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| ![](media/f82f9741d3834faa38e6d36198dc5251.png) (c) flow-density plane  | ![](media/8772373878b88e8a0919c1e51a7cc2d9.png) (d) 3D flow-speed-density plane |
 
 Figure 2: Empirical data vs. S3 model
 
