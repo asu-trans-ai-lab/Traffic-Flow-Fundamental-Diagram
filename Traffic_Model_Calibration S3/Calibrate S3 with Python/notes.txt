@@ -1,0 +1,1 @@
+In this code, the S3 traffic flow model is calibrated with the Adam algorithm, which is also used in my Stochastic Fundamental Diagram paper.
